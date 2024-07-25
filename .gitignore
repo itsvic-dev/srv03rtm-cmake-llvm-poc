@@ -1,0 +1,7 @@
+.cache
+build
+srv03rtm
+winmine/*
+!winmine/CMakeLists.txt
+!winmine/menu.inc
+.envrc
